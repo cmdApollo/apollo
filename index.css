@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Lato&family=Rubik+Puddles&family=Titillium+Web:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Enriqueta&family=Rubik+Puddles&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Enriqueta&family=Faster+One&family=Rubik+Puddles&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -77,7 +78,7 @@ section h2{
 .apollo h3{
   font-size: 3vh;
   color: #fff;
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Inconsolata', monospace;
   padding: 5px 20px;
 }
 
