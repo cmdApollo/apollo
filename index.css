@@ -75,12 +75,7 @@ section h2{
   color: #fff;
   padding: 30px;
 }
-.apollo h3{
-  font-size: 3vh;
-  color: #fff;
-  font-family: 'Inconsolata', monospace;
-  padding: 5px 20px;
-}
+
 
 .apollo .haha{
 
@@ -94,6 +89,8 @@ section h2{
 }
 .apollo .haha h3{
   font-family: 'Inconsolata', monospace;
+  font-size: 3vh;
+  color: #fff;
 }
 .apollo .haha img{
   padding: 10px;
